@@ -6,7 +6,7 @@ This project analyzes industry carbon emissions to identify which industries are
 
 The table below shows the total emissions for each industry:
 
-| Industry        | Total Emissions         |
+| **Industry**    | **Total Emissions**     |
 |-----------------|-------------------------|
 | Energy          | 2701.25                 |
 | Manufacturing   | 2401.4000244140625      |
@@ -16,10 +16,10 @@ The table below shows the total emissions for each industry:
 
 ## Key Findings
 
-- **Energy** is the highest emitter with a total emission of 2701.25 units.
-- **Manufacturing** is the second highest emitter with 2401.40 units.
-- **Transportation** comes next with 1750.30 units.
-- **Agriculture** and **Technology** follow with 1050.35 and 900.90 units, respectively.
+- **Energy** is the highest emitter with a total emission of **2701.25** units.
+- **Manufacturing** is the second highest emitter with **2401.40** units.
+- **Transportation** comes next with **1750.30** units.
+- **Agriculture** and **Technology** follow with **1050.35** and **900.90** units, respectively.
 
 ## Analysis Approach
 
@@ -30,7 +30,7 @@ The table below shows the total emissions for each industry:
 
 ## Conclusion
 
-This analysis identifies the Energy sector as the leading contributor to carbon emissions, followed by Manufacturing, Transportation, Agriculture, and Technology. This information is crucial for policymakers and businesses aiming to target the largest sources of emissions for reduction efforts.
+This analysis identifies the **Energy** sector as the leading contributor to carbon emissions, followed by **Manufacturing**, **Transportation**, **Agriculture**, and **Technology**. This information is crucial for policymakers and businesses aiming to target the largest sources of emissions for reduction efforts.
 
 ## Usage
 
@@ -47,5 +47,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgements
 
 We would like to thank the contributors to this project and the sources of the data used in this analysis.
-
-![Capture3](https://github.com/Kanch-prog/Carbon_Emissions/assets/121807277/fa47d067-ef4f-4d20-af00-d1362815d94b)
